@@ -98,7 +98,7 @@ st.set_page_config(page_title="PragyanAI Video Creator", layout="wide")
 if os.path.exists("PragyanAI_Transperent.png"):
     st.image("lord-chaitanya.jpg")
 
-st.title("PragyanAI - Multimedia Merger")
+st.title("Hare Krishna")
 st.markdown("Upload multiple images, specify timing, and add audio from a file or YouTube.")
 
 with st.sidebar:
